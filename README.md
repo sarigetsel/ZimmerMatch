@@ -9,13 +9,11 @@
 ## Overview
 A comprehensive Full-Stack web application designed for managing vacation rentals. The system provides an end-to-end solution for searching, viewing, and managing properties with a focus on high performance and user experience.
 
-<!-- שתי תמונות של עמוד הבית בהתחלה -->
 <p align="center">
-  <img src="<img width="1910" height="897" alt="Screenshot 2026-05-04 012025" src="https://github.com/user-attachments/assets/cee68cc7-ffb7-471b-b327-8c0817936a59" />
-" alt="Home Page View 1" width="400">
-  <img src="<img width="1919" height="907" alt="Screenshot 2026-05-04 012501" src="https://github.com/user-attachments/assets/02a6cfaa-2c42-466f-96ca-a6fb14d7c12b" />
-" alt="Home Page View 2" width="400">
+  <img src="https://github.com/user-attachments/assets/cee68cc7-ffb7-471b-b327-8c0817936a59" alt="Home Page View 1" width="400">
+  <img src="https://github.com/user-attachments/assets/02a6cfaa-2c42-466f-96ca-a6fb14d7c12b" alt="Home Page View 2" width="400">
 </p>
+
 
 ## Architecture
 The project is built using a **decoupled architecture**, consisting of two main components:
@@ -42,10 +40,8 @@ The system implements a secure and granular permission model based on user roles
 *   Integrated a dynamic calendar for real-time availability tracking.
 *   Seamless booking process that prevents double-booking and manages property schedules.
 
-<!-- תמונת יומן הזמינויות -->
 <p align="center">
-  <img src="<img width="1919" height="905" alt="Screenshot 2026-05-04 015104" src="https://github.com/user-attachments/assets/ab9f8d84-9df2-4079-8621-a7dc3a93abb7" />
-" alt="Availability Calendar" width="700">
+  <img src="https://github.com/user-attachments/assets/ab9f8d84-9df2-4079-8621-a7dc3a93abb7" alt="Availability Calendar" width="700">
   <br>
   <em>Dynamic Availability Calendar and Booking Management</em>
 </p>
@@ -54,9 +50,8 @@ The system implements a secure and granular permission model based on user roles
 *   **Search Engine**: Implemented a **String Similarity Algorithm** using **Dynamic Programming** to handle typos and provide flexible search results.
 *   **Interactive UI**: Data visualization using interactive maps and real-time state management.
 
-<!-- תמונת המפה האינטראקטיבית -->
 <p align="center">
-  <img src="<img width="1909" height="900" alt="Screenshot 2026-05-04 012525" src="https://github.com/user-attachments/assets/32f517d1-01b5-4e79-b764-333366bd3ce5" />
+  <img src="<img width="1909" height="900" alt="Screenshot 2026-05-04 012525" sr"https://github.com/user-attachments/assets/32f517d1-01b5-4e79-b764-333366bd3ce5" />
 " alt="Interactive Map" width="700">
   <br>
   <em>Interactive Map Visualization for property discovery</em>
