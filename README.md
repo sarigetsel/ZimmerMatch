@@ -51,8 +51,7 @@ The system implements a secure and granular permission model based on user roles
 *   **Interactive UI**: Data visualization using interactive maps and real-time state management.
 
 <p align="center">
-  <img src="<img width="1909" height="900" alt="Screenshot 2026-05-04 012525" sr"https://github.com/user-attachments/assets/32f517d1-01b5-4e79-b764-333366bd3ce5" />
-" alt="Interactive Map" width="700">
+  <img src="https://github.com/user-attachments/assets/32f517d1-01b5-4e79-b764-333366bd3ce5" alt="Interactive Map" width="700">
   <br>
   <em>Interactive Map Visualization for property discovery</em>
 </p>
