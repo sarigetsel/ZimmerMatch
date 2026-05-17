@@ -63,7 +63,7 @@ The system implements a secure and granular permission model based on user roles
 * **Strict Topic Guardrails**: Implemented robust prompt engineering constraints to safely handle off-topic inquiries and keep conversational responses concise, engaging, and highly vacation-focused.
 
 <p align="center">
-  <img src=""https://github.com/user-attachments/assets/0664eb8c-b5f4-4ec4-9284-ce35b8699450" width="700">
+  <img src="https://github.com/user-attachments/assets/0664eb8c-b5f4-4ec4-9284-ce35b8699450" width="700">
   <br>
   <em>AI-Powered Smart Concierge helping guests evaluate property value and plan local activities</em>
 </p>
