@@ -56,6 +56,18 @@ The system implements a secure and granular permission model based on user roles
   <em>Interactive Map Visualization for property discovery</em>
 </p>
 
+### 🤖 AI-Powered Smart Concierge Chat
+* **Virtual Holiday Assistant**: Integrated a smart AI assistant within each property detail page to help users explore listings, evaluate value-for-money, and assist in vacation planning.
+* **Context-Aware Diagnostics**: The assistant automatically ingests real-time property details (amenities, pricing, location) and local data to provide tailored recommendations.
+* **Smart Infrastructure Discovery**: Programmed to intelligently map and suggest nearby points of interest, dining options, and community/religious infrastructure (e.g., Synagogues, Kosher dining, Mikvaot) within a 15-minute drive.
+* **Strict Topic Guardrails**: Implemented robust prompt engineering constraints to safely handle off-topic inquiries and keep conversational responses concise, engaging, and highly vacation-focused.
+
+<p align="center">
+  <img src=""https://github.com/user-attachments/assets/0664eb8c-b5f4-4ec4-9284-ce35b8699450" width="700">
+  <br>
+  <em>AI-Powered Smart Concierge helping guests evaluate property value and plan local activities</em>
+</p>
+
 ## Tech Stack
 *   **Backend**: C#, .NET Web API, Entity Framework, SQL Server.
 *   **Frontend**: React, Redux Toolkit, Vite, SCSS.
