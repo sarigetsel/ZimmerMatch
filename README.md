@@ -67,6 +67,18 @@ The system implements a secure and granular permission model based on user roles
   <br>
   <em>AI-Powered Smart Concierge helping guests evaluate property value and plan local activities</em>
 </p>
+### 🔄 Similar Properties Recommendation Engine (ZimmerMatch Algorithm)
+* **Smart Matching**: Implemented a localized scoring algorithm to dynamically suggest alternative vacation rentals to the user based on their current view.
+* **Multi-Criteria Similarity**: The matching engine analyzes and weights parameters to find the best alternatives, focusing heavily on:
+  * **Geographic Proximity**: Prioritizes properties within the exact same city.
+  * **Price Range Matching**: Calculates a delta variance ($\le 20\%$) against the base property's price per night to suggest relevant budget alternatives.
+* **Optimized Payload**: Limits results to the top 4 most relevant recommendations to optimize frontend rendering and database query overhead.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/473131d8-303f-4b4e-89c6-c9f709e7f053" width="700">
+  <br>
+  <em>Personalized "Similar Properties" slider powered by our location-and-price heuristic matching</em>
+</p>
 
 ## Tech Stack
 *   **Backend**: C#, .NET Web API, Entity Framework, SQL Server.
