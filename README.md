@@ -9,6 +9,8 @@
 ## Overview
 A comprehensive Full-Stack web application designed for managing vacation rentals. The system provides an end-to-end solution for searching, viewing, and managing properties with a focus on high performance and user experience.
 
+https://github.com/user-attachments/assets/b2569cd3-c8f8-414e-9cb6-87becc08bea7
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cee68cc7-ffb7-471b-b327-8c0817936a59" alt="Home Page View 1" width="400">
   <img src="https://github.com/user-attachments/assets/02a6cfaa-2c42-466f-96ca-a6fb14d7c12b" alt="Home Page View 2" width="400">
