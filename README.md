@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/b2569cd3-c8f8-414e-9cb6-87becc08bea7
 The project is built using a **decoupled architecture** focused on separation of concerns and secure data flow:
 
 *   **Frontend**: A responsive Single Page Application (SPA) built with **React**, **Vite**, and **SCSS**, utilizing **Redux Toolkit** for clean global state management.
-*   **Backend**: A RESTful Web API engineered with **C#** and **.NET 8** following a **Layered Architecture (N-Tier)** pattern, cleanly separating Controllers, Services, and Repositories.
+*   **Backend**: A RESTful Web API engineered with **C#** and **.NET 9** following a **Layered Architecture (N-Tier)** pattern, cleanly separating Controllers, Services, and Repositories.
 *   **Database & ORM**: Powered by **SQL Server** and **Entity Framework Core** using a **Code-First** approach with structural database migrations.
 
 ---
